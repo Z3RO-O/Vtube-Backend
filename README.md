@@ -1,3 +1,3 @@
-# Buzztube Backend
+# Vtube Backend
 
-- Backend model similar to Buzztube
+- Backend model similar to Youtube

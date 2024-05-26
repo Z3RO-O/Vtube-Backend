@@ -1,7 +1,7 @@
 {
-  "name": "buzztube-backend",
+  "name": "vtube-backend",
   "version": "1.0.0",
-  "description": "backend of buzztube",
+  "description": "backend of vtube",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,7 +11,7 @@
   "keywords": [
     "javascript",
     "backend",
-    "buzztube"
+    "vtube"
   ],
   "author": "Z3RO_O",
   "license": "ISC",
